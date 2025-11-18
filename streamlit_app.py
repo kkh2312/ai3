@@ -74,6 +74,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
      },
+
+     labels[1]: {
+       "texts": ["날강두", "siu", "독신"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.ruliweb.com%2Fcommunity%2Fboard%2F300779%2Fread%2F43361604&psig=AOvVaw1Cm2suKKNJxvmbU6BSPVQA&ust=1763521720748000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCa-cDc-pADFQAAAAAdAAAAABAS", ""],
+       "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
+     },
+
+       labels[2]: {
+       "texts": ["네이마르의 반대말은 아니이마르", "ㄴㅇㅁㄹ", "ㅔㅣㅏㅡ"],
+       "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://.../jjampong2.jpg"],
+       "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
+     },
 }
 
 # ======================
