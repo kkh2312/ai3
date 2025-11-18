@@ -70,21 +70,21 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["네이마르의 반대말은 아니이마르", "ㄴㅇㅁㄹ", "ㅔㅣㅏㅡ"],
+       "texts": ["네이마르의 반대말은 아니이마르", "불법 인공 호수", "코로나 파티~"],
        "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
      },
 
      labels[1]: {
        "texts": ["날강두", "siu", "독신"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.ruliweb.com%2Fcommunity%2Fboard%2F300779%2Fread%2F43361604&psig=AOvVaw1Cm2suKKNJxvmbU6BSPVQA&ust=1763521720748000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCa-cDc-pADFQAAAAAdAAAAABAS", ""],
-       "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJYjuBn1h5IFVKN83iKheMxQoqdQvae2N2Q&s", "https://www.ifocus.kr/news/photo/202212/229104_283683_4528.jpg"],
+       "videos": ["https://www.youtube.com/shorts/19p7wrC2P4k"]
      },
 
        labels[2]: {
-       "texts": ["네이마르의 반대말은 아니이마르", "ㄴㅇㅁㄹ", "ㅔㅣㅏㅡ"],
-       "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
+       "texts": ["상어", "우리 개는 안물어요", "WRYYYYYYYYYY"],
+       "images": ["https://i.namu.wiki/i/3f0CvsC_zeZjIjXs0gmvNGn2XuImz6niGd2D4yoyj6gcgklREqrO1jxVpDnROaRB3GGLvWlOpOlMHSXNuzmEgg.webp", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbPOn5qD_7qKw-pPQvN4v3bcVcuKuQdH8g&s"],
+       "videos": ["https://www.youtube.com/shorts/zHYhOIxc-aA"]
      },
 }
 
