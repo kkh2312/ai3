@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["네이마르의 반대말은 아니이마르", "불법 인공 호수", "코로나 파티~"],
-       "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://cdn.interfootball.co.kr/news/photo/201807/224928_225170_4821.jpg", "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/E0EC/production/_116208575_gettyimages-1214713816.jpg.webp"],
        "videos": ["https://www.youtube.com/shorts/ktO5IBpgZx8"]
      },
 
